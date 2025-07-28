@@ -13,8 +13,8 @@
   ],
   "name":"Room1",
   "parent":{
-    "name":"MechJamVI",
-    "path":"MechJamVI.yyp",
+    "name":"PaintKingGainer",
+    "path":"PaintKingGainer.yyp",
   },
   "parentRoom":null,
   "physicsSettings":{
